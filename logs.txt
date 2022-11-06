@@ -1,0 +1,7 @@
+{
+    "Shivaahuja16@gmail.com": {
+        "Last check": "2022-11-06",
+        "Today's points": 323,
+        "Points": 373
+    }
+}
